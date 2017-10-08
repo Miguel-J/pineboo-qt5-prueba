@@ -58,7 +58,7 @@ class DlgConnect(QtWidgets.QWidget):
         DlgConnect.leUserName = self.ui.leUserName
         DlgConnect.lePassword = self.ui.lePassword
         DlgConnect.lePort = self.ui.lePort
-        # MODIFICACION 6 PARA CONECTOR SQLITE : DEFINIMOS los NUEVOS BOTONES DEL UI:
+        # MODIFICACION 6 PARA CONECTOR SQLITE : DEFINIMOS los NUEVOS CAMPOS DEL UI:
         DlgConnect.leFolder = self.ui.leFolderSQLITE
         DlgConnect.leDBType = self.ui.leDBType
         DlgConnect.leHost = self.ui.leHost
@@ -79,7 +79,7 @@ class DlgConnect(QtWidgets.QWidget):
         # MODIFICACION 12 PARA CONECTOR SQLITE : DEFINIMOS NUEVA CONEXIÓN.
         DlgConnect.username = DlgConnect.leUserName.text()
         DlgConnect.password = DlgConnect.lePassword.text()
-        DlgConnect.hostname = DlgConnect.leHostName.text()
+        DlgConnect.hostname = DlgConnect.leHost.text()
         DlgConnect.portnumber = DlgConnect.lePort.text()
         DlgConnect.database = DlgConnect.leDBName.text()
 
