@@ -86,7 +86,7 @@
         <x>480</x>
         <y>10</y>
         <width>241</width>
-        <height>351</height>
+        <height>341</height>
        </rect>
       </property>
       <property name="title">
@@ -95,8 +95,8 @@
       <widget class="Line" name="line">
        <property name="geometry">
         <rect>
-         <x>10</x>
-         <y>100</y>
+         <x>0</x>
+         <y>90</y>
          <width>221</width>
          <height>16</height>
         </rect>
@@ -108,7 +108,7 @@
       <widget class="QLabel" name="label_Name">
        <property name="geometry">
         <rect>
-         <x>20</x>
+         <x>10</x>
          <y>70</y>
          <width>78</width>
          <height>16</height>
@@ -121,7 +121,7 @@
       <widget class="QLineEdit" name="leName">
        <property name="geometry">
         <rect>
-         <x>100</x>
+         <x>90</x>
          <y>70</y>
          <width>130</width>
          <height>20</height>
@@ -131,8 +131,8 @@
       <widget class="QLabel" name="label_Password">
        <property name="geometry">
         <rect>
-         <x>20</x>
-         <y>290</y>
+         <x>10</x>
+         <y>280</y>
          <width>78</width>
          <height>16</height>
         </rect>
@@ -144,8 +144,8 @@
       <widget class="QLabel" name="label_CREDENTIALS">
        <property name="geometry">
         <rect>
-         <x>20</x>
-         <y>245</y>
+         <x>10</x>
+         <y>235</y>
          <width>75</width>
          <height>16</height>
         </rect>
@@ -157,8 +157,8 @@
       <widget class="QLineEdit" name="lePassword">
        <property name="geometry">
         <rect>
-         <x>100</x>
-         <y>290</y>
+         <x>90</x>
+         <y>280</y>
          <width>130</width>
          <height>20</height>
         </rect>
@@ -170,8 +170,8 @@
       <widget class="QLineEdit" name="leHost">
        <property name="geometry">
         <rect>
-         <x>100</x>
-         <y>184</y>
+         <x>90</x>
+         <y>174</y>
          <width>130</width>
          <height>20</height>
         </rect>
@@ -180,8 +180,8 @@
       <widget class="QLabel" name="label_DATABASE">
        <property name="geometry">
         <rect>
-         <x>20</x>
-         <y>110</y>
+         <x>10</x>
+         <y>100</y>
          <width>59</width>
          <height>16</height>
         </rect>
@@ -193,8 +193,8 @@
       <widget class="QLineEdit" name="lePort">
        <property name="geometry">
         <rect>
-         <x>100</x>
-         <y>210</y>
+         <x>90</x>
+         <y>200</y>
          <width>130</width>
          <height>20</height>
         </rect>
@@ -203,8 +203,8 @@
       <widget class="QLineEdit" name="leUserName">
        <property name="geometry">
         <rect>
-         <x>100</x>
-         <y>264</y>
+         <x>90</x>
+         <y>254</y>
          <width>130</width>
          <height>20</height>
         </rect>
@@ -213,8 +213,8 @@
       <widget class="QLabel" name="label_DBType">
        <property name="geometry">
         <rect>
-         <x>20</x>
-         <y>158</y>
+         <x>10</x>
+         <y>148</y>
          <width>78</width>
          <height>16</height>
         </rect>
@@ -226,8 +226,8 @@
       <widget class="QLineEdit" name="leDBType">
        <property name="geometry">
         <rect>
-         <x>100</x>
-         <y>158</y>
+         <x>90</x>
+         <y>148</y>
          <width>130</width>
          <height>20</height>
         </rect>
@@ -236,8 +236,8 @@
       <widget class="QLabel" name="label_DBName">
        <property name="geometry">
         <rect>
-         <x>20</x>
-         <y>132</y>
+         <x>10</x>
+         <y>122</y>
          <width>78</width>
          <height>16</height>
         </rect>
@@ -249,8 +249,8 @@
       <widget class="QLabel" name="label_Host">
        <property name="geometry">
         <rect>
-         <x>20</x>
-         <y>184</y>
+         <x>10</x>
+         <y>174</y>
          <width>78</width>
          <height>16</height>
         </rect>
@@ -262,8 +262,8 @@
       <widget class="Line" name="line_2">
        <property name="geometry">
         <rect>
-         <x>20</x>
-         <y>236</y>
+         <x>10</x>
+         <y>226</y>
          <width>211</width>
          <height>16</height>
         </rect>
@@ -275,8 +275,8 @@
       <widget class="QLabel" name="label_User">
        <property name="geometry">
         <rect>
-         <x>20</x>
-         <y>264</y>
+         <x>10</x>
+         <y>254</y>
          <width>78</width>
          <height>16</height>
         </rect>
@@ -288,8 +288,8 @@
       <widget class="QLineEdit" name="leDBName">
        <property name="geometry">
         <rect>
-         <x>100</x>
-         <y>132</y>
+         <x>90</x>
+         <y>122</y>
          <width>130</width>
          <height>20</height>
         </rect>
@@ -298,8 +298,8 @@
       <widget class="QLabel" name="label_Port">
        <property name="geometry">
         <rect>
-         <x>20</x>
-         <y>210</y>
+         <x>10</x>
+         <y>200</y>
          <width>78</width>
          <height>16</height>
         </rect>
@@ -311,7 +311,7 @@
       <widget class="QLabel" name="label_PROYECTO">
        <property name="geometry">
         <rect>
-         <x>20</x>
+         <x>10</x>
          <y>50</y>
          <width>201</width>
          <height>16</height>
@@ -324,27 +324,14 @@
       <widget class="QPushButton" name="pbnGuardarProyecto">
        <property name="geometry">
         <rect>
-         <x>20</x>
-         <y>320</y>
-         <width>211</width>
+         <x>10</x>
+         <y>310</y>
+         <width>221</width>
          <height>23</height>
         </rect>
        </property>
        <property name="text">
         <string>Guardar Proyecto</string>
-       </property>
-      </widget>
-      <widget class="QPushButton" name="pbnCargarDatos">
-       <property name="geometry">
-        <rect>
-         <x>20</x>
-         <y>20</y>
-         <width>211</width>
-         <height>23</height>
-        </rect>
-       </property>
-       <property name="text">
-        <string>Cargar Proyecto</string>
        </property>
       </widget>
       <widget class="QLabel" name="label_FolderSQLITE_5">
@@ -358,6 +345,19 @@
        </property>
        <property name="text">
         <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff0000;&quot;&gt;PASO 4&lt;/span&gt;&lt;span style=&quot; color:#0000ff;&quot;&gt;: COMPROBAR DATOS DE CONEXIÓN:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+       </property>
+      </widget>
+      <widget class="QPushButton" name="pbnProyecto_Ejemplo">
+       <property name="geometry">
+        <rect>
+         <x>10</x>
+         <y>20</y>
+         <width>221</width>
+         <height>23</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>Proyecto de ejemplo :</string>
        </property>
       </widget>
      </widget>
@@ -398,7 +398,7 @@
          <x>10</x>
          <y>60</y>
          <width>451</width>
-         <height>161</height>
+         <height>141</height>
         </rect>
        </property>
        <row>
@@ -451,7 +451,7 @@
        <property name="geometry">
         <rect>
          <x>10</x>
-         <y>230</y>
+         <y>210</y>
          <width>461</width>
          <height>16</height>
         </rect>
@@ -473,6 +473,55 @@
         <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff0000;&quot;&gt;PASO 2:&lt;/span&gt;&lt;span style=&quot; color:#0000ff;&quot;&gt; MOSTRAR LAS EMPRESAS-PROYECTOS GUARDADOS:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
        </property>
       </widget>
+      <widget class="QLabel" name="label_Fila">
+       <property name="geometry">
+        <rect>
+         <x>10</x>
+         <y>230</y>
+         <width>78</width>
+         <height>16</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>Fila elegida :</string>
+       </property>
+      </widget>
+      <widget class="QLineEdit" name="leFila">
+       <property name="geometry">
+        <rect>
+         <x>90</x>
+         <y>230</y>
+         <width>31</width>
+         <height>20</height>
+        </rect>
+       </property>
+      </widget>
+      <widget class="QPushButton" name="pbnCargarDatos">
+       <property name="geometry">
+        <rect>
+         <x>130</x>
+         <y>230</y>
+         <width>151</width>
+         <height>23</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>Cargar Proyecto</string>
+       </property>
+      </widget>
+      <widget class="QPushButton" name="pbnBorrarProyecto">
+       <property name="geometry">
+        <rect>
+         <x>300</x>
+         <y>230</y>
+         <width>161</width>
+         <height>23</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>Borrar Proyecto</string>
+       </property>
+      </widget>
      </widget>
      <widget class="QLabel" name="label_FolderSQLITE_3">
       <property name="geometry">
@@ -487,21 +536,7 @@
        <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#ff0000;&quot;&gt;PASO 5&lt;/span&gt;&lt;span style=&quot; color:#0000ff;&quot;&gt;: CONECTAR PINEBOO A LA EMPRESA-PROYECTO ELEGIDO / ACTIVO pulsando el botón:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
       </property>
      </widget>
-     <widget class="QPushButton" name="pbnBorrarProyecto">
-      <property name="geometry">
-       <rect>
-        <x>0</x>
-        <y>350</y>
-        <width>84</width>
-        <height>23</height>
-       </rect>
-      </property>
-      <property name="text">
-       <string>Borrar Proyecto</string>
-      </property>
-     </widget>
      <zorder>groupBox_2</zorder>
-     <zorder>horizontalLayoutWidget</zorder>
      <zorder>groupBox</zorder>
      <zorder>groupBox_3</zorder>
      <zorder>label_FolderSQLITE_3</zorder>
